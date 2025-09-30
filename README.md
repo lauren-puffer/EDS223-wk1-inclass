@@ -4,6 +4,8 @@
 
 ## **Files**
 
+**Week 1** -
+
 **Data** - Contains the EJ data used in this analysis.
 
 **Figures** - Contains the maps of both EJ topics and their respective distribution across \_\_\_\_\_ county.
